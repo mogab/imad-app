@@ -12,8 +12,8 @@ var articleOne = {
   date: 'July 30, 2017',
   content: `
     <p>
-            This is the content of the First Article. This is the content of the First Article. This is the content of the First Article.
-            This is the content of the First Article. This is the content of the First Article. 
+            This is the modified content of the First Article. This is the content of the First Article. This is the content of the First Article.
+            This is the modified content of the First Article. This is the content of the First Article. 
             This is the content of the First Article. 
         </p>
         <p>
