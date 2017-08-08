@@ -9,7 +9,7 @@ element.onclick = function(){
 var marginLeft = 10;
 function moveRight(){
     marginLeft = marginLeft+1;
-    img.style.marginLeft = marginLef + "px";
+    img.style.marginLeft = marginLeft + "px";
 }
 var img = document.getElementById("madi");
 img.onclick = function(){
