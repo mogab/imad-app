@@ -4,6 +4,6 @@ element.innerHTML = "Mera Duniya!";
 
 //Move image
 var img = document.getElementById("madi");
-img.onClcik = function(){
+img.onclick = function(){
     img.style.marginleft="100px";
 };
