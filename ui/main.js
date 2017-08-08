@@ -2,7 +2,7 @@ console.log('Loaded!');
 var element = document.getElementById("main-text");
 element.innerHTML = "Mera Duniya!";
 element.onclick = function(){
-    img.innerHTML = 'Hello World!';
+    element.innerHTML = 'Hello World!';
 };
 //Move image
 var img = document.getElementById("madi");
